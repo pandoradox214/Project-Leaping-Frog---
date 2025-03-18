@@ -1,0 +1,13 @@
+# Ignore Android Emulator files
+.android/
+.android/avd/
+.android/emu/
+.android/cache/
+*.img
+*.qcow2
+*.lock
+*.log
+*.ini
+.emulator_console_auth_token
+
+Library/Bee/Android/
